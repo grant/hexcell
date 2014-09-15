@@ -10,6 +10,7 @@ npm install hexcell --save
 
 ```js
 var Point = require('point2d');
+var Hexcell = require('hexcell');
 
 var point = new Point(2, 3);
 var cell = new Hexcell(point, { extraData: 3 });

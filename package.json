@@ -1,6 +1,6 @@
 {
   "name": "hexcell",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A hexagon cell for a hexgrid",
   "main": "index.js",
   "scripts": {

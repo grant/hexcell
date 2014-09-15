@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/grant/hexcell/issues"
   },
-  "homepage": "https://github.com/grant/hexcell"
+  "homepage": "https://github.com/grant/hexcell",
+  "dependencies": {
+    "point2d": "0.0.0"
+  }
 }
